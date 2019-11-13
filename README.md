@@ -11,8 +11,7 @@ Materialized
 FireBase
 ## Installation
 
-To run this application make sure you have NodeJS installed.  Run npm i on the client folder for the front end dependencies and npm i on the root
-folder to install the back end dependencies.
+Set up a firebase account and replace the credentials in the code with your credentials. No installation require, clone the repository and run the application on your local browser.
 
 ```bash
 npm i
